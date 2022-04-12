@@ -3,7 +3,7 @@
 
 MySQL inline not precompiled due to the requirement of editing the values.
 
-``using System;
+`using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -44,4 +44,4 @@ public class VAInline
       }
     }
   }
-}``
+}`
