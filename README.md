@@ -5,7 +5,8 @@ MySQL inline not precompiled due to the requirement of editing the values.
 
 I added ``MySql.Data.dll`` however before usage or download, read the license [here](https://github.com/aezrath96/VoiceAttack-Inlines/blob/main/connector-net-8.0-gpl-en.pdf)
 
-```using System;
+```cs
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
